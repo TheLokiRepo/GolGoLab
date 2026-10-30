@@ -1,0 +1,45 @@
+flowchart TB
+    PERSONA["Usuario"] --> WEB
+
+    subgraph FRONT["Interfaz"]
+        WEB["Angular<br/>Dashboard, gráficos, histórico, hitos y gestión de usuarios"]
+        ASISTENTE["Asistente persistente · futuro<br/>Consulta y posible navegación; reparto 70/30 por madurar"]
+        WEB -. Integración futura .-> ASISTENTE
+    end
+
+    subgraph BACK["Backend · ejecución local inicial · tres servicios independientes"]
+        API["API y orquestación<br/>Entrada del frontal y coordinación"]
+        USUARIOS["Servicio de usuarios<br/>Cuentas, perfiles y permisos"]
+        DEPORTE["Servicio Garmin y datos deportivos<br/>Vinculación, sincronización y consultas por fecha"]
+        IA["Servicio de IA · entrega posterior<br/>Prompts, contexto y análisis"]
+        API --> USUARIOS
+        API --> DEPORTE
+        API -. Entrega posterior .-> IA
+    end
+
+    WEB --> API
+    ASISTENTE -. Consultas .-> API
+    WEB -->|Autorizar cuenta| GARMIN
+    DEPORTE <-->|Autorización y datos| GARMIN["Garmin Connect · externo<br/>Autorización oficial y APIs por validar"]
+    IA -. Acceso y consumo propios del usuario .-> OPENAI["API de OpenAI · externa"]
+
+    subgraph DATOS["Persistencia propuesta · motor e instancias por elegir"]
+        CUENTAS[("Usuarios y permisos")]
+        HISTORICO[("Entrenamientos, VFC, sueño<br/>Estado de sincronización y vinculación Garmin")]
+        MEMORIA[("Contexto, análisis y conexión OpenAI<br/>Entrega posterior")]
+    end
+    USUARIOS --> CUENTAS
+    DEPORTE --> HISTORICO
+    IA -.-> MEMORIA
+
+    OPERACION["Soporte de operación · diseño pendiente<br/>Secretos protegidos, configuración, registros y copias"] --- BACK
+
+    subgraph FUTURO["Posibilidades futuras · fuera del alcance inicial"]
+        ANDROID["Android · Capacitor por validar"]
+        MCP["Servidor MCP<br/>Acceso desde ChatGPT u otros clientes"]
+    end
+    ANDROID -. Reutiliza frontal .-> WEB
+    MCP -. Consulta API propia .-> API
+
+    classDef posterior fill:#f4f0ff,stroke:#7c5cbf,stroke-dasharray:6 4;
+    class ASISTENTE,IA,OPENAI,MEMORIA,ANDROID,MCP posterior;

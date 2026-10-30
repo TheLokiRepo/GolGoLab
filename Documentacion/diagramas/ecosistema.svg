@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2100" height="1690" viewBox="0 0 2100 1690">
+<title>Ecosistema de GolGoLab</title>
+<desc>Frontal Angular, tres servicios iniciales, persistencia, Garmin y evolución hacia IA, asistente, Android y MCP.</desc>
+<rect width="2100" height="1690" fill="#F5F7FB"/>
+<text x="50" y="56" font-family="DejaVu Sans,sans-serif" font-size="45" font-weight="700" fill="#192C40" text-anchor="start" dominant-baseline="central">GolGoLab</text>
+<text x="50" y="103" font-family="DejaVu Sans,sans-serif" font-size="25" font-weight="400" fill="#596E83" text-anchor="start" dominant-baseline="central">Ecosistema previsto · inicio local · cuentas separadas</text>
+<rect x="1220" y="35" width="25" height="25" rx="5" fill="#FFFFFF" stroke="#8DA7BD" stroke-width="2"/>
+<text x="1258" y="48" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#192C40" text-anchor="start" dominant-baseline="central">Primera entrega</text>
+<rect x="1540" y="35" width="25" height="25" rx="5" fill="#FBF7FF" stroke="#9673B9" stroke-width="2" stroke-dasharray="9 7"/>
+<text x="1578" y="48" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#192C40" text-anchor="start" dominant-baseline="central">Posterior / futuro</text>
+<text x="2050" y="96" font-family="DejaVu Sans,sans-serif" font-size="19" font-weight="400" fill="#64788A" text-anchor="end" dominant-baseline="central">Diseño funcional · tecnologías aún por cerrar</text>
+<rect x="300" y="150" width="1350" height="220" rx="22" fill="#EAF0F6" stroke="#D4DFE9" stroke-width="2"/>
+<text x="328" y="181" font-family="DejaVu Sans,sans-serif" font-size="23" font-weight="700" fill="#47627C" text-anchor="start" dominant-baseline="central">INTERFAZ</text>
+<rect x="50" y="405" width="1600" height="455" rx="22" fill="#EAF0F6" stroke="#D4DFE9" stroke-width="2"/>
+<text x="78" y="436" font-family="DejaVu Sans,sans-serif" font-size="23" font-weight="700" fill="#47627C" text-anchor="start" dominant-baseline="central">BACKEND · EJECUCIÓN LOCAL</text>
+<text x="78" y="464" font-family="DejaVu Sans,sans-serif" font-size="19" font-weight="400" fill="#64788A" text-anchor="start" dominant-baseline="central">Tres servicios independientes; IA en una entrega posterior</text>
+<rect x="50" y="915" width="1600" height="240" rx="22" fill="#EAF0F6" stroke="#D4DFE9" stroke-width="2"/>
+<text x="78" y="946" font-family="DejaVu Sans,sans-serif" font-size="23" font-weight="700" fill="#47627C" text-anchor="start" dominant-baseline="central">PERSISTENCIA</text>
+<text x="78" y="974" font-family="DejaVu Sans,sans-serif" font-size="19" font-weight="400" fill="#64788A" text-anchor="start" dominant-baseline="central">Motor pendiente</text>
+<rect x="50" y="1195" width="1600" height="160" rx="22" fill="#EAF0F6" stroke="#D4DFE9" stroke-width="2"/>
+<text x="78" y="1226" font-family="DejaVu Sans,sans-serif" font-size="23" font-weight="700" fill="#47627C" text-anchor="start" dominant-baseline="central">OPERACIÓN · FUNCIONES TRANSVERSALES</text>
+<text x="78" y="1254" font-family="DejaVu Sans,sans-serif" font-size="19" font-weight="400" fill="#64788A" text-anchor="start" dominant-baseline="central">Diseño pendiente; no son microservicios adicionales</text>
+<rect x="50" y="1400" width="1600" height="195" rx="22" fill="#F5F0FA" stroke="#D9CBE8" stroke-width="2"/>
+<text x="78" y="1431" font-family="DejaVu Sans,sans-serif" font-size="23" font-weight="700" fill="#6C488A" text-anchor="start" dominant-baseline="central">POSIBILIDADES FUTURAS</text>
+<text x="1730" y="413" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="700" fill="#47627C" text-anchor="start" dominant-baseline="central">EXTERNOS</text>
+<polyline points="270,265 330,265" fill="none" stroke="#58778F" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="330.0,265.0 317.0,259.0 317.0,271.0" fill="#58778F"/>
+<polyline points="695,325 695,385 840,385 840,455" fill="none" stroke="#58778F" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="840.0,455.0 846.0,442.0 834.0,442.0" fill="#58778F"/>
+<polyline points="1060,300 1120,300" fill="none" stroke="#9673B9" stroke-width="3" stroke-linejoin="round" stroke-dasharray="11 9"/>
+<polygon points="1120.0,300.0 1107.0,294.0 1107.0,306.0" fill="#9673B9"/>
+<polyline points="1360,325 1360,385 1055,385 1055,505 1030,505" fill="none" stroke="#9673B9" stroke-width="3" stroke-linejoin="round" stroke-dasharray="11 9"/>
+<polygon points="1030.0,505.0 1043.0,511.0 1043.0,499.0" fill="#9673B9"/>
+<polyline points="840,560 840,605 310,605 310,650" fill="none" stroke="#58778F" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="310.0,650.0 316.0,637.0 304.0,637.0" fill="#58778F"/>
+<polyline points="840,560 840,605 875,605 875,650" fill="none" stroke="#58778F" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="875.0,650.0 881.0,637.0 869.0,637.0" fill="#58778F"/>
+<polyline points="1030,540 1085,540 1085,605 1370,605 1370,650" fill="none" stroke="#9673B9" stroke-width="3" stroke-linejoin="round" stroke-dasharray="11 9"/>
+<polygon points="1370.0,650.0 1376.0,637.0 1364.0,637.0" fill="#9673B9"/>
+<polyline points="1100,700 1125,700 1125,510 1730,510" fill="none" stroke="#58778F" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="1730.0,510.0 1717.0,504.0 1717.0,516.0" fill="#58778F"/>
+<polygon points="1100.0,700.0 1113.0,706.0 1113.0,694.0" fill="#58778F"/>
+<polyline points="1580,715 1730,715" fill="none" stroke="#9673B9" stroke-width="3" stroke-linejoin="round" stroke-dasharray="11 9"/>
+<polygon points="1730.0,715.0 1717.0,709.0 1717.0,721.0" fill="#9673B9"/>
+<polyline points="310,785 310,1000" fill="none" stroke="#58778F" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="310.0,1000.0 316.0,987.0 304.0,987.0" fill="#58778F"/>
+<polyline points="875,785 875,1000" fill="none" stroke="#58778F" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="875.0,1000.0 881.0,987.0 869.0,987.0" fill="#58778F"/>
+<polyline points="1370,785 1370,1000" fill="none" stroke="#9673B9" stroke-width="3" stroke-linejoin="round" stroke-dasharray="11 9"/>
+<polygon points="1370.0,1000.0 1376.0,987.0 1364.0,987.0" fill="#9673B9"/>
+<polyline points="695,210 695,133 1890,133 1890,450" fill="none" stroke="#58778F" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="1890.0,450.0 1896.0,437.0 1884.0,437.0" fill="#58778F"/>
+<text x="1240" y="118" font-family="DejaVu Sans,sans-serif" font-size="20" font-weight="400" fill="#58778F" text-anchor="middle" dominant-baseline="central">Autorizar en Garmin desde el frontal</text>
+<text x="1380" y="493" font-family="DejaVu Sans,sans-serif" font-size="20" font-weight="400" fill="#58778F" text-anchor="middle" dominant-baseline="central">Autorización y datos</text>
+<rect x="60" y="215" width="210" height="100" rx="16" fill="#FFFFFF" stroke="#8DA7BD" stroke-width="2"/>
+<text x="82" y="246" font-family="DejaVu Sans,sans-serif" font-size="25" font-weight="700" fill="#18364F" text-anchor="start" dominant-baseline="central">Usuario</text>
+<text x="82" y="282" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#4A5F73" text-anchor="start" dominant-baseline="central">Cuenta propia</text>
+<rect x="330" y="210" width="730" height="115" rx="16" fill="#FFFFFF" stroke="#8DA7BD" stroke-width="2"/>
+<text x="352" y="241" font-family="DejaVu Sans,sans-serif" font-size="25" font-weight="700" fill="#18364F" text-anchor="start" dominant-baseline="central">Frontal Angular</text>
+<text x="352" y="277" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#4A5F73" text-anchor="start" dominant-baseline="central">Dashboard, gráficos, histórico e hitos</text>
+<text x="352" y="306" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#4A5F73" text-anchor="start" dominant-baseline="central">Gestión de usuarios y botón «Vincular Garmin»</text>
+<rect x="1120" y="210" width="480" height="115" rx="16" fill="#FBF7FF" stroke="#9673B9" stroke-width="2" stroke-dasharray="9 7"/>
+<text x="1142" y="241" font-family="DejaVu Sans,sans-serif" font-size="25" font-weight="700" fill="#704C90" text-anchor="start" dominant-baseline="central">Asistente persistente</text>
+<text x="1142" y="277" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#4A5F73" text-anchor="start" dominant-baseline="central">Consultas y posible navegación</text>
+<text x="1142" y="306" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#4A5F73" text-anchor="start" dominant-baseline="central">Reparto 70/30 por madurar</text>
+<rect x="650" y="455" width="380" height="105" rx="16" fill="#FFFFFF" stroke="#8DA7BD" stroke-width="2"/>
+<text x="672" y="486" font-family="DejaVu Sans,sans-serif" font-size="25" font-weight="700" fill="#18364F" text-anchor="start" dominant-baseline="central">API y orquestación</text>
+<text x="672" y="522" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#4A5F73" text-anchor="start" dominant-baseline="central">Entrada y coordinación</text>
+<rect x="120" y="650" width="380" height="135" rx="16" fill="#FFFFFF" stroke="#8DA7BD" stroke-width="2"/>
+<text x="142" y="681" font-family="DejaVu Sans,sans-serif" font-size="25" font-weight="700" fill="#18364F" text-anchor="start" dominant-baseline="central">Servicio de usuarios</text>
+<text x="142" y="717" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#4A5F73" text-anchor="start" dominant-baseline="central">Cuentas y perfiles</text>
+<text x="142" y="746" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#4A5F73" text-anchor="start" dominant-baseline="central">Autenticación y permisos</text>
+<rect x="650" y="650" width="450" height="135" rx="16" fill="#FFFFFF" stroke="#8DA7BD" stroke-width="2"/>
+<text x="672" y="681" font-family="DejaVu Sans,sans-serif" font-size="25" font-weight="700" fill="#18364F" text-anchor="start" dominant-baseline="central">Garmin y datos deportivos</text>
+<text x="672" y="717" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#4A5F73" text-anchor="start" dominant-baseline="central">Vinculación y sincronización</text>
+<text x="672" y="746" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#4A5F73" text-anchor="start" dominant-baseline="central">Consultas por día y por rango</text>
+<rect x="1160" y="650" width="420" height="135" rx="16" fill="#FBF7FF" stroke="#9673B9" stroke-width="2" stroke-dasharray="9 7"/>
+<text x="1182" y="681" font-family="DejaVu Sans,sans-serif" font-size="25" font-weight="700" fill="#704C90" text-anchor="start" dominant-baseline="central">Servicio de IA</text>
+<text x="1182" y="717" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#4A5F73" text-anchor="start" dominant-baseline="central">Prompts, contexto y análisis</text>
+<text x="1182" y="746" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#4A5F73" text-anchor="start" dominant-baseline="central">Entrega posterior</text>
+<rect x="1730" y="450" width="320" height="155" rx="16" fill="#F0FAF6" stroke="#6BA18A" stroke-width="2"/>
+<text x="1752" y="481" font-family="DejaVu Sans,sans-serif" font-size="25" font-weight="700" fill="#18364F" text-anchor="start" dominant-baseline="central">Garmin Connect</text>
+<text x="1752" y="517" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#4A5F73" text-anchor="start" dominant-baseline="central">Autorización oficial</text>
+<text x="1752" y="546" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#4A5F73" text-anchor="start" dominant-baseline="central">y APIs de datos</text>
+<text x="1752" y="575" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#4A5F73" text-anchor="start" dominant-baseline="central">Acceso por validar</text>
+<rect x="1730" y="650" width="320" height="135" rx="16" fill="#FBF7FF" stroke="#9673B9" stroke-width="2" stroke-dasharray="9 7"/>
+<text x="1752" y="681" font-family="DejaVu Sans,sans-serif" font-size="25" font-weight="700" fill="#704C90" text-anchor="start" dominant-baseline="central">API de OpenAI</text>
+<text x="1752" y="717" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#4A5F73" text-anchor="start" dominant-baseline="central">Acceso y consumo</text>
+<text x="1752" y="746" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#4A5F73" text-anchor="start" dominant-baseline="central">propios del usuario</text>
+<rect x="120" y="1000" width="380" height="125" rx="16" fill="#FFFFFF" stroke="#8DA7BD" stroke-width="2"/>
+<text x="142" y="1031" font-family="DejaVu Sans,sans-serif" font-size="25" font-weight="700" fill="#18364F" text-anchor="start" dominant-baseline="central">Datos de usuarios</text>
+<text x="142" y="1067" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#4A5F73" text-anchor="start" dominant-baseline="central">Identidad, perfiles y permisos</text>
+<rect x="650" y="1000" width="450" height="125" rx="16" fill="#FFFFFF" stroke="#8DA7BD" stroke-width="2"/>
+<text x="672" y="1031" font-family="DejaVu Sans,sans-serif" font-size="25" font-weight="700" fill="#18364F" text-anchor="start" dominant-baseline="central">Datos deportivos y conexión</text>
+<text x="672" y="1067" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#4A5F73" text-anchor="start" dominant-baseline="central">Entrenamientos, VFC y sueño</text>
+<text x="672" y="1096" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#4A5F73" text-anchor="start" dominant-baseline="central">Histórico y vinculación Garmin</text>
+<rect x="1160" y="1000" width="420" height="125" rx="16" fill="#FBF7FF" stroke="#9673B9" stroke-width="2" stroke-dasharray="9 7"/>
+<text x="1182" y="1031" font-family="DejaVu Sans,sans-serif" font-size="25" font-weight="700" fill="#704C90" text-anchor="start" dominant-baseline="central">Datos de IA</text>
+<text x="1182" y="1067" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#4A5F73" text-anchor="start" dominant-baseline="central">Contexto, memoria y análisis</text>
+<text x="1182" y="1096" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#4A5F73" text-anchor="start" dominant-baseline="central">Conexión OpenAI</text>
+<text x="80" y="1141" font-family="DejaVu Sans,sans-serif" font-size="17" font-weight="400" fill="#64788A" text-anchor="start" dominant-baseline="central">Conjuntos lógicos propuestos; no implican motores ni instancias independientes.</text>
+<text x="1730" y="980" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="700" fill="#47627C" text-anchor="start" dominant-baseline="central">VINCULACIÓN GARMIN</text>
+<text x="1730" y="1025" font-family="DejaVu Sans,sans-serif" font-size="20" font-weight="400" fill="#596E83" text-anchor="start" dominant-baseline="central">Sin copiar claves.</text>
+<text x="1730" y="1058" font-family="DejaVu Sans,sans-serif" font-size="20" font-weight="400" fill="#596E83" text-anchor="start" dominant-baseline="central">Autorización guardada.</text>
+<text x="1730" y="1091" font-family="DejaVu Sans,sans-serif" font-size="20" font-weight="400" fill="#596E83" text-anchor="start" dominant-baseline="central">Renovación si se admite.</text>
+<text x="1730" y="1124" font-family="DejaVu Sans,sans-serif" font-size="20" font-weight="400" fill="#596E83" text-anchor="start" dominant-baseline="central">Revincular si deja de ser válida.</text>
+<rect x="90" y="1280" width="350" height="46" rx="9" fill="#FFFFFF" stroke="#D4DFE9" stroke-width="2"/>
+<text x="265" y="1303" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#192C40" text-anchor="middle" dominant-baseline="central">Secretos protegidos</text>
+<rect x="470" y="1280" width="350" height="46" rx="9" fill="#FFFFFF" stroke="#D4DFE9" stroke-width="2"/>
+<text x="645" y="1303" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#192C40" text-anchor="middle" dominant-baseline="central">Configuración</text>
+<rect x="850" y="1280" width="350" height="46" rx="9" fill="#FFFFFF" stroke="#D4DFE9" stroke-width="2"/>
+<text x="1025" y="1303" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#192C40" text-anchor="middle" dominant-baseline="central">Registros y trazas</text>
+<rect x="1230" y="1280" width="350" height="46" rx="9" fill="#FFFFFF" stroke="#D4DFE9" stroke-width="2"/>
+<text x="1405" y="1303" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#192C40" text-anchor="middle" dominant-baseline="central">Copias y restauración</text>
+<rect x="120" y="1455" width="580" height="105" rx="16" fill="#FBF7FF" stroke="#9673B9" stroke-width="2" stroke-dasharray="9 7"/>
+<text x="142" y="1486" font-family="DejaVu Sans,sans-serif" font-size="25" font-weight="700" fill="#704C90" text-anchor="start" dominant-baseline="central">Aplicación Android</text>
+<text x="142" y="1522" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#4A5F73" text-anchor="start" dominant-baseline="central">Reutiliza Angular · Capacitor por validar</text>
+<rect x="900" y="1455" width="680" height="105" rx="16" fill="#FBF7FF" stroke="#9673B9" stroke-width="2" stroke-dasharray="9 7"/>
+<text x="922" y="1486" font-family="DejaVu Sans,sans-serif" font-size="25" font-weight="700" fill="#704C90" text-anchor="start" dominant-baseline="central">Servidor MCP</text>
+<text x="922" y="1522" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#4A5F73" text-anchor="start" dominant-baseline="central">Clientes ChatGPT / MCP → servidor → API propia</text>
+<text x="50" y="1643" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="400" fill="#526C83" text-anchor="start" dominant-baseline="central">Pendiente principal: validar autorización oficial e histórico de Garmin. Backend .NET / ASP.NET Core propuesto.</text>
+<text x="2050" y="1643" font-family="DejaVu Sans,sans-serif" font-size="20" font-weight="400" fill="#7A8C9E" text-anchor="end" dominant-baseline="central">30 oct 2026</text>
+</svg>
